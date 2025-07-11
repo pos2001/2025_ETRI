@@ -1,0 +1,49 @@
+Boto3 Version:  1.37.10
+Beginning Setup
+Checking for Additional Requirements
+Additional Requirements Check Finished
+Running Code As Process
+Execution started
+Quantum circuit:
+T  : │      0      │   Result Types   │
+      ┌───────────┐ ┌────────────────┐ 
+q0 : ─┤ Rx(theta) ├─┤ Expectation(Z) ├─
+      └───────────┘ └────────────────┘ 
+T  : │      0      │   Result Types   │
+
+Unassigned parameters: [theta].
+>>> Iteration 0
+Metrics - timestamp=1742540971.3326232; rotation_angle=0.0; iteration_number=0;
+Metrics - timestamp=1742540971.3326514; expectation_value=1.0; iteration_number=0;
+>>> Iteration 1
+Metrics - timestamp=1742540974.4664228; rotation_angle=0.3141592653589793; iteration_number=1;
+Metrics - timestamp=1742540974.4664536; expectation_value=0.944; iteration_number=1;
+>>> Iteration 2
+Metrics - timestamp=1742540977.2048206; rotation_angle=0.6283185307179586; iteration_number=2;
+Metrics - timestamp=1742540977.2048495; expectation_value=0.78; iteration_number=2;
+>>> Iteration 3
+Metrics - timestamp=1742540979.8629391; rotation_angle=0.9424777960769379; iteration_number=3;
+Metrics - timestamp=1742540979.8629692; expectation_value=0.578; iteration_number=3;
+>>> Iteration 4
+Metrics - timestamp=1742540982.4703414; rotation_angle=1.2566370614359172; iteration_number=4;
+Metrics - timestamp=1742540982.47037; expectation_value=0.33; iteration_number=4;
+>>> Iteration 5
+Metrics - timestamp=1742540985.3015888; rotation_angle=1.5707963267948966; iteration_number=5;
+Metrics - timestamp=1742540985.30162; expectation_value=-0.06; iteration_number=5;
+>>> Iteration 6
+Metrics - timestamp=1742540987.9601736; rotation_angle=1.8849555921538759; iteration_number=6;
+Metrics - timestamp=1742540987.9602034; expectation_value=-0.336; iteration_number=6;
+>>> Iteration 7
+Metrics - timestamp=1742540990.6836882; rotation_angle=2.199114857512855; iteration_number=7;
+Metrics - timestamp=1742540990.683718; expectation_value=-0.616; iteration_number=7;
+>>> Iteration 8
+Metrics - timestamp=1742540993.3220649; rotation_angle=2.5132741228718345; iteration_number=8;
+Metrics - timestamp=1742540993.322095; expectation_value=-0.808; iteration_number=8;
+>>> Iteration 9
+Metrics - timestamp=1742540996.0011125; rotation_angle=2.827433388230814; iteration_number=9;
+Metrics - timestamp=1742540996.0011423; expectation_value=-0.968; iteration_number=9;
+>>> Iteration 10
+Metrics - timestamp=1742540998.8376203; rotation_angle=3.141592653589793; iteration_number=10;
+Metrics - timestamp=1742540998.8376484; expectation_value=-1.0; iteration_number=10;
+Execution completed
+Code Run Finished
